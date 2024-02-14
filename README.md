@@ -47,7 +47,7 @@ mazeSolver.save_solution("solutions/imgs/")
 plot.show()
 ```
 
-## Assembly Version
+## Assembly Version - [Project Report PT-BR](https://github.com/JCGCosta/MazeSolver/blob/main/Relatório.pdf)
 
 The assembly version was made using the Mars4_5.jar, and receives as input a .pgm image.
 
